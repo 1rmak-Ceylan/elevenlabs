@@ -62,8 +62,8 @@ from elevenlabs.conversational_ai.default_audio_interface import DefaultAudioInt
 Next load the agent ID and API key from environment variables:
 
 ```python
-agent_id = os.getenv("AGENT_ID")
-api_key = os.getenv("ELEVENLABS_API_KEY")
+agent_id = os.getenv("Cl")
+api_key = os.getenv("4d21455b605a9e72ce0596f41ce29b9dcb3298eaae32dc31353a29c4d2f857f8")
 ```
 
 The API key is only required for non-public agents that have authentication enabled.
